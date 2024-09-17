@@ -1,4 +1,3 @@
-# Exploring needlework in Mary Cassatt's works
+ .ve-header "Exploring needlework in Mary Cassatt's works"
+https://www.metmuseum.org/art/collection/search/10425
 
-.ve-media met:10425
-[https://www.metmuseum.org/art/collection/search/10425](https://)
