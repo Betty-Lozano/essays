@@ -7,6 +7,7 @@ Marry Cassatt (1844—1926) is an American painter and printmaker known for her 
 .ve-media https://iiif.vam.ac.uk/collections/O1036560/manifest.json
 .ve-media https://manifests.collections.yale.edu/yuag/obj/274889
 
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/228130
 #Woman on a Striped Sofa with a Dog
 .ve-media https://iiif.harvardartmuseums.org/manifests/object/228130
 
